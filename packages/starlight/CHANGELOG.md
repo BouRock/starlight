@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.39.3
+
+### Patch Changes
+
+- [#3910](https://github.com/withastro/starlight/pull/3910) [`dddf405`](https://github.com/withastro/starlight/commit/dddf40510a304d4ff1f137b12c07f0dafdd9c198) Thanks [@andreialba](https://github.com/andreialba)! - Improves Romanian UI translations
+
 ## 0.39.2
 
 ### Patch Changes
